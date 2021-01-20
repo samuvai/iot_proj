@@ -6,6 +6,7 @@
     }
   ],
   "buttons": {
-    "flag": 1
+    "flag": 1,
+    "color": "Red"
   }
 }
